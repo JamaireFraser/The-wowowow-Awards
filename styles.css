@@ -1,0 +1,44 @@
+body{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdTpojnmd0rAGFI4Pueeq9FFzSPdsoPG-KiGswg8zRhSL4rQP2SQ");
+    
+    text-align: center;
+}
+
+h1{
+    color: aqua;
+    background-color: black;
+    border: groove;
+}
+
+iframe{
+    width: 560px;
+    height: 315px;
+    
+}
+h3{
+   font-family: 'Lobster', cursive;
+   color: gold;
+}
+
+.toy{
+    font-family: 'Patrick Hand', cursive;
+    color: gold;
+}
+
+.iphone{
+   font-family: 'Lobster', cursive;
+ color: white;
+
+}
+
+.celebrity{
+    font-family: 'Permanent Marker', cursive;
+    color: aqua;
+}
+
+.game{
+    font-family: 'Oleo Script', cursive;
+    color: green;
+}
+
+  
